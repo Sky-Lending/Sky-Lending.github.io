@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sky-lending/
+Sitemap: https://sky-lending.github.io/sitemap.xml
